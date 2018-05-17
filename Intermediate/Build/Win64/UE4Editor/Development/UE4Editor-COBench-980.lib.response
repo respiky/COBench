@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-COBench-980.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\COBench\PCH.COBench.h.obj"
+"E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\COBench\COBench.cpp.obj"
+"E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\COBench\PlatformFunctions.cpp.obj"
+"E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\COBench\RW.cpp.obj"
+"E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\COBench\WriteToFile.cpp.obj"
+"E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\COBench\RWText.cpp.obj"
+"E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\COBench\COBench.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\COBench\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-COBench-980.lib"

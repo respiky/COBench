@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\COBench.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{ACDB2937-6EAA-4BC1-A839-1F6F4FCE2945}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\COBench.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\COBenchEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{0F03CDA7-D6A7-4938-953D-38D2952FA257}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\COBench">
+			<UniqueIdentifier>{F0D4B6C3-79A6-499A-92B8-EC886DAE33DD}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\COBench\COBench.Build.cs">
+			<Filter>Source\COBench</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\COBench\COBench.cpp">
+			<Filter>Source\COBench</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\COBench\COBench.h">
+			<Filter>Source\COBench</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\COBench\PlatformFunctions.cpp">
+			<Filter>Source\COBench</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\COBench\PlatformFunctions.h">
+			<Filter>Source\COBench</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\COBench\RW.cpp">
+			<Filter>Source\COBench</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\COBench\RW.h">
+			<Filter>Source\COBench</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\COBench\WriteToFile.cpp">
+			<Filter>Source\COBench</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\COBench\WriteToFile.h">
+			<Filter>Source\COBench</Filter>
+		</ClInclude >
+		<Filter Include="Source\COBench\Source">
+			<UniqueIdentifier>{CBBBE7CF-658A-49FE-9E03-4E94B82E0D7D}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\COBench\Source\RWText">
+			<UniqueIdentifier>{3B1A9F6E-A0CF-4DF8-AE38-406288AFE025}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\COBench\Source\RWText\RWText.cpp">
+			<Filter>Source\COBench\Source\RWText</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\COBench\Source\RWText\RWText.h">
+			<Filter>Source\COBench\Source\RWText</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

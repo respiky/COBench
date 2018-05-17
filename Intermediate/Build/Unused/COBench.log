@@ -1,0 +1,13 @@
+﻿  Compiling game modules for hot reload
+  Parsing headers for COBenchEditor
+    Running UnrealHeaderTool "E:\CO\Unreal Benchmark\COBench\COBench.uproject" "E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\COBenchEditor\Development\COBenchEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for COBenchEditor in 2.5628684 seconds
+  Performing 4 actions (4 in parallel)
+  PlatformFunctions.cpp
+  COBench.generated.cpp
+  [3/4] Link UE4Editor-COBench-9222.dll
+  [4/4] Link UE4Editor-COBench-9222.lib
+     Creating library E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-COBench-9222.lib and object E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-COBench-9222.exp
+     Creating library E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-COBench-9222.suppressed.lib and object E:\CO\Unreal Benchmark\COBench\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-COBench-9222.suppressed.exp
+  Deploying COBenchEditor Win64 Development...
+  Total build time: 6.56 seconds (Local executor: 2.13 seconds)
